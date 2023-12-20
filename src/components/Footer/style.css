@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+footer{
+    margin: 2.4rem 0 2.4rem 0;
+}
+
+footer p {
+    font-size: 1.8rem;
+    color: #fff;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
