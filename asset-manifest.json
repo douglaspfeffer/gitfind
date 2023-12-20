@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gitfind/static/css/main.30788a60.css",
+    "main.js": "/gitfind/static/js/main.62ba626f.js",
+    "static/media/background.svg": "/gitfind/static/media/background.7fa2c0d049d23a3015fb8b49d2a81d8a.svg",
+    "index.html": "/gitfind/index.html",
+    "main.30788a60.css.map": "/gitfind/static/css/main.30788a60.css.map",
+    "main.62ba626f.js.map": "/gitfind/static/js/main.62ba626f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30788a60.css",
+    "static/js/main.62ba626f.js"
+  ]
+}
